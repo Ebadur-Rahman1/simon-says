@@ -17,16 +17,12 @@ A fun and interactive memory game built using HTML, CSS, and JavaScript. Test ho
 ✅ Touch-friendly button to start the game
 
 ## 🚀 Live Demo
+ 
+**[https://ebad-simon-says-game.netlify.app](https://ebad-simon-says-game.netlify.app)**  
 
-Once deployed, your game will be accessible here:  
-**[https://your-netlify-url.netlify.app](https://your-netlify-url.netlify.app)**  
-*(Update this after deployment)*
 
 ## 🛠️ Tech Stack
 
 - **HTML5** – Game structure
 - **CSS3** – Responsive styling and color themes
 - **JavaScript (Vanilla)** – Game logic, sequence handling, input tracking
-
-## 🗂️ File Structure
-
