@@ -18,7 +18,7 @@ A fun and interactive memory game built using HTML, CSS, and JavaScript. Test ho
 
 ## 🚀 Live Demo
  
-**[https://ebad-simon-says-game.netlify.app](https://ebad-simon-says-game.netlify.app)**  
+🔗 [View Live on Netlify](https://ebad-simon-says-game.netlify.app/)  
 
 
 ## 🛠️ Tech Stack
